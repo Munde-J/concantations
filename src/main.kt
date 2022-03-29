@@ -10,11 +10,11 @@ fun main() {
     var y = identity("Philip", 15)
     println(y)
 
-    var feeling = "excited"
+    var emotions = "excited"
     println(feeling.length)
 
-    var name = "Philip"
-    if (name=="Philip"){
+    var name = "tausly"
+    if (name=="tausly"){
         print("That's me!")
     }else {print("I don't know who that is")
 
